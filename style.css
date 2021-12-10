@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-position:inside;
+    text-align: center;
+}
+.container {
+    background-color:aquamarine;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin: 0 30em;
+}
+
+li {
+    text-align: left;
+    margin:auto 20rem;
+}
+
+
+.done {
+    text-decoration: line-through;
+}
+
